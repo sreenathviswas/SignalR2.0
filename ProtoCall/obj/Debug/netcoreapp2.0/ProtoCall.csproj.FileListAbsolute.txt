@@ -1,0 +1,3 @@
+/Users/sreenath/Projects/SignalR/ProtoCall/obj/Debug/netcoreapp2.0/ProtoCall.csproj.CoreCompileInputs.cache
+/Users/sreenath/Projects/SignalR/ProtoCall/obj/Debug/netcoreapp2.0/ProtoCall.AssemblyInfoInputs.cache
+/Users/sreenath/Projects/SignalR/ProtoCall/obj/Debug/netcoreapp2.0/ProtoCall.AssemblyInfo.cs

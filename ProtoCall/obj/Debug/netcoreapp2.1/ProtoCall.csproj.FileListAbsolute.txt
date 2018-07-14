@@ -1,0 +1,14 @@
+/Users/sreenath/Projects/SignalR/ProtoCall/bin/Debug/netcoreapp2.1/ProtoCall.deps.json
+/Users/sreenath/Projects/SignalR/ProtoCall/bin/Debug/netcoreapp2.1/ProtoCall.runtimeconfig.json
+/Users/sreenath/Projects/SignalR/ProtoCall/bin/Debug/netcoreapp2.1/ProtoCall.runtimeconfig.dev.json
+/Users/sreenath/Projects/SignalR/ProtoCall/bin/Debug/netcoreapp2.1/ProtoCall.dll
+/Users/sreenath/Projects/SignalR/ProtoCall/bin/Debug/netcoreapp2.1/ProtoCall.pdb
+/Users/sreenath/Projects/SignalR/ProtoCall/obj/Debug/netcoreapp2.1/ProtoCall.csprojAssemblyReference.cache
+/Users/sreenath/Projects/SignalR/ProtoCall/obj/Debug/netcoreapp2.1/ProtoCall.csproj.CoreCompileInputs.cache
+/Users/sreenath/Projects/SignalR/ProtoCall/obj/Debug/netcoreapp2.1/ProtoCall.RazorAssemblyInfo.cache
+/Users/sreenath/Projects/SignalR/ProtoCall/obj/Debug/netcoreapp2.1/ProtoCall.RazorAssemblyInfo.cs
+/Users/sreenath/Projects/SignalR/ProtoCall/obj/Debug/netcoreapp2.1/ProtoCall.AssemblyInfoInputs.cache
+/Users/sreenath/Projects/SignalR/ProtoCall/obj/Debug/netcoreapp2.1/ProtoCall.AssemblyInfo.cs
+/Users/sreenath/Projects/SignalR/ProtoCall/obj/Debug/netcoreapp2.1/ProtoCall.RazorTargetAssemblyInfo.cache
+/Users/sreenath/Projects/SignalR/ProtoCall/obj/Debug/netcoreapp2.1/ProtoCall.dll
+/Users/sreenath/Projects/SignalR/ProtoCall/obj/Debug/netcoreapp2.1/ProtoCall.pdb
